@@ -14,4 +14,4 @@ If you want to show appreciation for my content and work, please consider buying
 
 Click the massive GIF below =)
 
-[![Ko-Fi](kofi.gif)](https://ko-fi.com/TravellingEngineer)
+[![Ko-Fi](https://raw.githubusercontent.com/TravellingEngineer/.github/refs/heads/main/profile/kofi.gif)](https://ko-fi.com/TravellingEngineer)
