@@ -1,12 +1,15 @@
-## Introduction
+## Intro time
 
-I’m Ikey Doherty, an Irish Traveller now living in the UK. Happily married dad of four with one on the way ❤️
+I’m Ikey Doherty, an Irish Traveller now living in the UK. Happily married dad of four with one on the way ❤️ In addition I'm a life long open source developer, systems architect and old-school hacker.
 
-Challenging stereotypes and advocating a better life for my children and community.
+You can read more about my return from retirement over on [my blog](https://travellingengineer.com/blog/first-post/#triggered-out-of-retirement-context). Long story short I'm back and I'm building something awesome.
 
-I was motivated out of retirement effectively through disgust and astonishment. Initially dumbfounded by the absurdity of Omarchy receiving approx. $13MN in funding for essentially a respin, I then learned of the views of DHH.
+## Introducing `barney` (no, not a distro.)
 
-As an Irish Traveller, I strongly condemn such rhetoric against **any** nomadic people. I'm not setting out to create a general purpose operating system, rather I am making a point of showing the industry that is so willing to fund people like DHH and associated projects that the very kind of people he abhors can outdo him without the $13MN.
+My main work is `barney` (named after my youngest <3) which in a nut shell is a meta build tool for automating the bootstrap and builds of Linux distributions with a modern design: immutable, stateless, atomic.
+
+Check out the [barney](https://github.com/TravellingEngineer/barney) repo for more details.
+Or, you can look at the reference platform [Brógstrapa](https://github.com/TravellingEngineer/brogstrapa) for the recipes themselves.
 
 ## Buy me an energy drink!
 
