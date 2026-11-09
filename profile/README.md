@@ -38,8 +38,13 @@ I also write about what I'm building, why I'm building it and the things I learn
 
 ## Support independent engineering
 
-I develop my work independently and in the open. Support helps fund the time and infrastructure needed to keep building and sharing it.
+I develop my work independently and in the open. Support helps fund the time, equipment and infrastructure needed to keep building and sharing it.
 
-If you enjoy following the work, you can [support me on Ko-fi](https://ko-fi.com/TravellingEngineer).
+If you'd like to help keep the work moving, you can support me through:
+
+- [Ko-fi](https://ko-fi.com/TravellingEngineer)
+- [GitHub Sponsors](https://github.com/sponsors/TravellingEngineer)
+
+Every contribution is appreciated. ❤️
 
 **Build things. Understand them. Own them.**
