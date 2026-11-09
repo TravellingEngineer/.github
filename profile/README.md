@@ -1,20 +1,45 @@
-## Intro time
+# Ikey Doherty — Travelling Engineer
 
-I’m Ikey Doherty, an Irish Traveller now living in the UK. Happily married dad of four with one on the way ❤️ In addition I'm a life long open source developer, systems architect and old-school hacker.
+I'm Ikey Doherty. Irish Traveller, dad, lifelong open-source developer, systems engineer and old-school hacker.
 
-You can read more about my return from retirement over on [my blog](https://travellingengineer.com/blog/first-post/#triggered-out-of-retirement-context). Long story short I'm back and I'm building something awesome.
+I've spent much of my life building things around Linux, operating systems and the infrastructure that makes them work. I've been around the open-source world for a while, stepped away from the corporate grind, and inevitably found myself building things again.
 
-## Introducing `barney` (no, not a distro.)
+I like difficult engineering problems, good abstractions and figuring out how to make complicated systems understandable. I have little interest in building things just to follow a trend.
 
-My main work is `barney` (named after my youngest <3) which in a nut shell is a meta build tool for automating the bootstrap and builds of Linux distributions with a modern design: immutable, stateless, atomic.
+## What I'm working on
 
-Check out the [barney](https://github.com/TravellingEngineer/barney) repo for more details.
-Or, you can look at the reference platform [Brógstrapa](https://github.com/TravellingEngineer/brogstrapa) for the recipes themselves.
+### [Barney](https://github.com/barney-build/barney)
 
-## Buy me an energy drink!
+An independent, open-source engineering platform for building, composing and maintaining operating systems.
 
-If you want to show appreciation for my content and work, please consider buying me an aul' energy drink for my troubles. Alternatively, if you **become a member** on Ko-fi, you'll get behind the scenes access as well as exclusive content such as architectural insights,decision making, design process etc. Basically you rent my brain and learn how I do stuff.
+The idea is to make serious OS engineering more accessible, reusable and independent. Not another distribution, but the machinery that lets people build and own their own.
 
-Click the massive GIF below =)
+### [Pavee OS](https://github.com/barney-build/pavee-os)
 
-[![Ko-Fi](https://raw.githubusercontent.com/TravellingEngineer/.github/refs/heads/main/profile/kofi.gif)](https://ko-fi.com/TravellingEngineer)
+An example of what can be built with the Barney ecosystem, and a practical proving ground for the platform.
+
+### [bny-base](https://github.com/barney-build/bny-base)
+
+Reusable recipes and modules for building with Barney.
+
+## Beyond the code
+
+I'm interested in systems design, Linux, Rust, reproducible engineering, developer tooling and making difficult engineering work more accessible.
+
+I also write about what I'm building, why I'm building it and the things I learn along the way.
+
+## Find me elsewhere
+
+- [Website](https://travellingengineer.com/)
+- [Blog](https://travellingengineer.com/blog/)
+- [Barney website](https://barney-build.github.io/)
+- [Ko-fi](https://ko-fi.com/TravellingEngineer)
+- [GitHub Discussions](https://github.com/orgs/barney-build/discussions)
+
+## Support independent engineering
+
+I develop my work independently and in the open. Support helps fund the time and infrastructure needed to keep building and sharing it.
+
+If you enjoy following the work, you can [support me on Ko-fi](https://ko-fi.com/TravellingEngineer).
+
+**Build things. Understand them. Own them.**
